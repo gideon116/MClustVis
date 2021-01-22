@@ -1,0 +1,14 @@
+clustergram
+sklearn
+numpy
+matplotlib
+pandas
+scipy
+pillow
+plotly
+scikit-learn
+ipywidgets
+matplotlib
+fastcluster
+statsmodels
+clustergrammer2
