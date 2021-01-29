@@ -1,0 +1,11 @@
+	Type: dnaA	Type: DPO3B	Type: dnaN	Type: HARS	Type: hisS	Type: cheB	Type: cheR	Type: cheA	Type: tRNA-Pro	Type: GALE	Type: GALE	Type: RP-L25	Type: rplY	Type: mfd	Type: hprT
+	Group: SRB	Group: SRB	Group: SRB	Group: SRB	Group: SRB	Group: SRB	Group: SRB	Group: SRB	Group: SRB	Group: SRB	Group: Other	Group: Other	Group: Other	Group: Other	Group: Other
+	Species: Desulfovibrio alaskensis	Species: Desulfovibrio alaskensis	Species: Desulfovibrio alaskensis	Species: Desulfovibrio alaskensis	Species: Desulfovibrio alaskensis	Species: Desulfovibrio gigas	Species: Desulfovibrio gigas	Species: Desulfovibrio gigas	Species: Desulfovibrio gigas	Species: Desulfovibrio gigas	Species: Bacillus subtilis subsp. subtilis 168	Species: Bacillus subtilis subsp. subtilis 169	Species: Bacillus subtilis subsp. subtilis 170	Species: Bacillus subtilis subsp. subtilis 171	
+SGS v0.1	0.591	0.604	0.604	0.616	0.616	0.628	0.612	0.625	-0.001	0.615	-0.001	0.609	0.609	0.607	0.608
+Deeply HE	0.746	0.756	0.756	0.755	0.755	0.764	0.758	0.751	-0.001	0.759	-0.001	0.77	0.77	0.767	0.761
+SRB-DeeplyCore	0.187	0.181	0.181	0.203	0.203	0.198	0.196	0.191	-0.001	0.184	-0.001	0.197	0.197	0.212	0.186
+SRB-SGSv0.1	0.425	0.423	0.423	0.435	0.435	0.442	0.43	0.424	-0.001	0.422	-0.001	0.43	0.43	0.444	0.411
+SRB-DeeplyHE	0.422	0.407	0.407	0.508	0.508	0.444	0.348	0.422	-0.001	0.431	-0.001	0.433	0.433	0.353	0.224
+Deeply Core	0.5	0.506	0.506	0.505	0.505	0.506	0.51	0.501	-0.001	0.503	-0.001	0.5	0.5	0.512	0.534
+Deeply Core - Homo sapiens	0.39	0.423	0.423	0.439	0.439	0.452	0.398	0.421	-0.001	0.444	-0.001	0.44	0.44	0.49	0.544
+SGSv0.1-Homo sapiens	0.505	0.599	0.599	0.551	0.551	0.56	0.561	0.529	-0.001	0.5	-0.001	0.605	0.605	0.676	0.771
